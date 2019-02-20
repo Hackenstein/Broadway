@@ -26,12 +26,14 @@ p {
   font-size:14px;
 }
 .banner {
+
+  background-image:url("../images/the-flatiron-building.png");
+}
+.banner p {
   color:white;
   font-size: 23px;
   font-weight: bold;
-  background-image:url("../images/the-flatiron-building.png");
 }
-
 footer {
 
   color:white;
