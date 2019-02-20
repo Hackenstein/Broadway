@@ -10,6 +10,9 @@ h1 {
   color:white;
   background-image:url("../images/the-flatiron-building.png");
 }
+.header a {
+  color:white;
+}
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -29,7 +32,15 @@ p {
 }
 
 footer {
-  font-size: 11px;
+
   color:white;
   background-color: dimgray;
+}
+
+footer a {
+  color:white;
+}
+
+footer .copy {
+  font-size: 11px;
 }
