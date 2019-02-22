@@ -14,6 +14,9 @@ h1 {
 .header a {
   color:white;
 }
+nav li {
+  padding: 20px;
+}
 h2 {
   font-size: 32px;
   font-weight: bold;
